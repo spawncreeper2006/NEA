@@ -1,0 +1,17 @@
+C:\Users\laneh\source\repos\music_nea\music_nea\bin\Debug\music_nea.exe.config
+C:\Users\laneh\source\repos\music_nea\music_nea\bin\Debug\music_nea.exe
+C:\Users\laneh\source\repos\music_nea\music_nea\bin\Debug\music_nea.pdb
+C:\Users\laneh\source\repos\music_nea\music_nea\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\laneh\source\repos\music_nea\music_nea\obj\Debug\music_nea.csproj.AssemblyReference.cache
+C:\Users\laneh\source\repos\music_nea\music_nea\obj\Debug\music_nea.csproj.SuggestedBindingRedirects.cache
+C:\Users\laneh\source\repos\music_nea\music_nea\obj\Debug\music_nea.Form1.resources
+C:\Users\laneh\source\repos\music_nea\music_nea\obj\Debug\music_nea.Properties.Resources.resources
+C:\Users\laneh\source\repos\music_nea\music_nea\obj\Debug\music_nea.csproj.GenerateResource.cache
+C:\Users\laneh\source\repos\music_nea\music_nea\obj\Debug\music_nea.csproj.CoreCompileInputs.cache
+C:\Users\laneh\source\repos\music_nea\music_nea\obj\Debug\music_nea.csproj.CopyComplete
+C:\Users\laneh\source\repos\music_nea\music_nea\obj\Debug\music_nea.exe
+C:\Users\laneh\source\repos\music_nea\music_nea\obj\Debug\music_nea.pdb
+C:\Users\laneh\source\repos\music_nea\music_nea\obj\Debug\music_nea.Forms.Equaliser.resources
+C:\Users\laneh\source\repos\music_nea\music_nea\obj\Debug\music_nea.Forms.Settings.resources
+C:\Users\laneh\source\repos\music_nea\music_nea\obj\Debug\music_nea.Forms.Download.resources
+C:\Users\laneh\source\repos\music_nea\music_nea\obj\Debug\music_nea.Forms.Playlist.resources
